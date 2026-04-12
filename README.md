@@ -37,5 +37,5 @@ You can find the original dataset at: Inside Airbnb - Get the Data
 
 #Developer
 Anurag Ganesh Fengade 
-
-*Connect With Me
+- 💻 [GitHub]( https://github.com/AnuragFengade)
+- 🔗 [LinkedIn]( https://www.linkedin.com/in/anurag-fengade-910620255/)
